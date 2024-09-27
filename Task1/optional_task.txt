@@ -1,0 +1,21 @@
+#CJ Patel
+#Task1 - optional_task.txt
+------------------------------------------------------------
+
+request 4 numbers from user and store in num1, num2, num3, num4
+if num1 is greater than num2
+    temp equal to num1
+    num1 equal to num2
+    num2 equal to temp
+if num2 is greater than num3
+    temp equal to num2
+    num2 equal to num3
+    num3 equal to temp
+if num3 is greater than num4
+    temp equal to num3
+    num3 equal to num4
+    num4 equal to temp
+print num1
+print num2
+print num3
+print num4

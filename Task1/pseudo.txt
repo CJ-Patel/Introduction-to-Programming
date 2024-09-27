@@ -1,0 +1,38 @@
+#CJ Patel
+#Task1 - pseudo.txt
+------------------------------------------------------------
+
+initialise variable largest to equal zero
+begin loop
+    request positive number from user
+    if number is higher than largest
+       store positive number in largest
+    if number equals zero
+       print largest
+
+------------------------------------------------------------
+
+initialise variables count and sum to equal zero
+begin while loop
+    get integer
+    sum equals sum plus integer
+    increment count by 1
+end while loop when integer value is invalid
+return sum divided by count
+
+------------------------------------------------------------
+
+if bought equals "false"
+    copy grocery to not_bought list
+not_bought.sort()
+print not_bought
+
+------------------------------------------------------------
+
+get values of X and Y
+set S to equal X plus Y
+set A to equal S divided by 2
+set P to equal X multiplied by Y
+print S
+print A
+print P
